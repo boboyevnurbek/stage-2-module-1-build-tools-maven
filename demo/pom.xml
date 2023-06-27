@@ -10,12 +10,16 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <properties>
+        <java.version>8</java.version>
+    </properties>
+
     <artifactId>demo</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>utils</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.3.5</version>
         </dependency>
 
         <dependency>
